@@ -2,7 +2,6 @@
 
 A modern weather app built with **React**, **React Query**, and **Zustand**. It provides real-time weather data, a 4-day forecast, and supports light/dark mode.
 
----
 
 ## Features ✨
 
@@ -14,7 +13,6 @@ A modern weather app built with **React**, **React Query**, and **Zustand**. It 
 - **Recent Searches**: Keeps track of recently searched cities.
 - **Dynamic Icons**: Icons for location, temperature, and theme toggles.
 
----
 
 ## Technologies Used 🛠️
 
@@ -22,17 +20,15 @@ A modern weather app built with **React**, **React Query**, and **Zustand**. It 
 - **API**: OpenWeatherMap API
 - **Icons**: React Icons
 
----
 
 ## Screenshots 📸
 
 ### Light Mode
-![Light Mode Screenshot](public/images/light-screenshot.png)
+![Light Mode Screenshot](src/images/day-ss.png)
 
 ### Dark Mode
-![Dark Mode Screenshot](public/images/dark-screenshot.png)
+![Dark Mode Screenshot](src/images/night-ss.png)
 
----
 
 ## Live Demo 🌐
 
