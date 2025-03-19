@@ -32,8 +32,7 @@ A modern weather app built with **React**, **React Query**, and **Zustand**. It 
 
 ## Live Demo 🌐
 
-Check out the live demo of the app: [Weather Cast](https://skycast.netlify.app)
+Check out the live demo of the app: [Weather Cast](https://weathercast.netlify.app)
 
----
 
 Enjoy the app! 🌦️
